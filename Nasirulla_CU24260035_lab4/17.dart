@@ -27,7 +27,7 @@ class _StudentScreenState extends State<StudentScreen> {
   final searchController = TextEditingController();
 
   List<Student> students = [
-    Student('Rishabh', '101', 'BCA'),
+    Student('Nasirulla', '101', 'BCA'),
     Student('Rahul', '102', 'BCA'),
   ];
 

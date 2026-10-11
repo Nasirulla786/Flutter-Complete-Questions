@@ -8,7 +8,7 @@ void main() {
 }
 
 class HomeScreen extends StatelessWidget {
-  final names = ['Rishabh', 'Aman', 'Rahul', 'Vikas', 'Mohit'];
+  final names = ['Nasirulla', 'Aman', 'Rahul', 'Vikas', 'Mohit'];
 
   @override
   Widget build(BuildContext context) {

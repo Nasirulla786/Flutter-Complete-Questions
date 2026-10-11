@@ -13,7 +13,7 @@ class SearchScreen extends StatefulWidget {
 }
 
 class _SearchScreenState extends State<SearchScreen> {
-  final names = ['Rishabh', 'Rahul', 'Aman', 'Mohit', 'Vikas'];
+  final names = ['Nasirulla', 'Rahul', 'Aman', 'Mohit', 'Vikas'];
   List<String> filteredNames = [];
 
   @override

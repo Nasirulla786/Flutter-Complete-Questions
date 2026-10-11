@@ -9,7 +9,7 @@ void main() {
 
 class HomeScreen extends StatelessWidget {
   final items = [
-    ['Rishabh', 'BCA Student', Icons.person],
+    ['Nasirulla', 'BCA Student', Icons.person],
     ['Rahul', 'B.Tech Student', Icons.school],
     ['Aman', 'MCA Student', Icons.computer],
   ];
