@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
             children: [
               const ListTile(
                 leading: Icon(Icons.person),
-                title: Text("Rishabh Yadav"),
+                title: Text("Nasirulla"),
                 subtitle: Text("BCA - 5th Semester"),
               ),
               Card(

@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: const [
-                      Text('Rishabh Yadav', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+                      Text('Nasirulla', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
                       Text('BCA Student', style: TextStyle(color: Colors.grey)),
                     ],
                   ),

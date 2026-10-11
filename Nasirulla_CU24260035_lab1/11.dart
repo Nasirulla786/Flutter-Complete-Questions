@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
                   backgroundImage: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDS2_Zuyt8RRGEw0Ckq2zL1XkzpLzwOxTdz6Cjbs7vHw&s=10'),
                 ),
                 const SizedBox(height: 10),
-                const Text('Rishabh Yadav', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+                const Text('Nasirulla', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
                 const Text('BCA - 5rd Semester', style: TextStyle(color: Colors.grey)),
                 const Divider(),
                 const Row(

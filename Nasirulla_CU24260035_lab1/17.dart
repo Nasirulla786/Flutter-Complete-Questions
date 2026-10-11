@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: const [
-                  Text('Name: Rishabh Yadav', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+                  Text('Name: Nasirulla', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
                   SizedBox(height: 8),
                   Text('Roll Number: cu24250093', style: TextStyle(fontSize: 16)),
                   SizedBox(height: 8),

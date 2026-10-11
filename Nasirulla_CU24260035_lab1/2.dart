@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text('Name: Rishabh Yadav'),
+              Text('Name: Nasirulla'),
               Text('Course: BCA'),
               Text('Semester: 3rd'),
               Text('College Name: COER University'),

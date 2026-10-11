@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                     backgroundImage: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDS2_Zuyt8RRGEw0Ckq2zL1XkzpLzwOxTdz6Cjbs7vHw&s=10'),
                   ),
                   const SizedBox(height: 10),
-                  const Text('Rishabh Yadav', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+                  const Text('Nasirulla', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
                   const Text('Flutter Developer', style: TextStyle(color: Colors.teal, fontSize: 16)),
                   const Divider(thickness: 1.5),
                   const ListTile(
